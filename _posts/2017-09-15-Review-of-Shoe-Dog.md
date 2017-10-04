@@ -15,6 +15,5 @@ Overall, this book was inspiring and candid and provides a real glimpse of the d
 
 There's a quote near the end of the book that I feel is a bit cliche, but strongly sums of Phil Knight's journey:
 
-    "I’d tell men and women in their mid twenties not to settle for a job or a profession or even a career. Seek a calling. Even if you don’t know what that means, seek it. If you’re following your calling, the fatigue will be easier to bear, the disappointments will be fuel, the highs will be like nothing you’ve ever felt."
+"I’d tell men and women in their mid twenties not to settle for a job or a profession or even a career. Seek a calling. Even if you don’t know what that means, seek it. If you’re following your calling, the fatigue will be easier to bear, the disappointments will be fuel, the highs will be like nothing you’ve ever felt."
 
-![_config.yml]({{ site.baseurl }}/images/config.png)

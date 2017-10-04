@@ -3,7 +3,9 @@ layout: post
 title: Introduction
 ---
 
-Hello. It looks like I have gotten a nother blog running. This will serve as an outlook for my formal thoughts on life, books and other events.
+Hello. It looks like I have gotten a blog running. This will serve as an outlook for my formal thoughts on life, books and other events.
+
+I have used Wordpress before but I wanted to learn how to use Jekyll in creating a blog. See you later.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
